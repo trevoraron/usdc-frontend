@@ -48,6 +48,7 @@ class USDC extends Component<USDCProps,USDCState> {
   }
 
   async componentDidMount() {
+    await window.ethereum.enable()
     const provider = new ethers.providers.Web3Provider(window.ethereum);
     const signer = provider.getSigner();
     const contract = new ethers.Contract(

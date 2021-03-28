@@ -5,6 +5,10 @@ Toy react front end using ethers for interacting with USDC on ropsten.
 Wanted to figure out how to make a frontend inspired by this guide to USDC:
 https://blog.coinbase.com/introduction-to-building-on-defi-with-ethereum-and-usdc-part-1-ea952295a6e2
 
+# To Deploy New Version to Github
+
+yarn run deploy
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
