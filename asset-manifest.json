@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/usdc-frontend/static/js/main.4af3d037.chunk.js",
+    "main.js.map": "/usdc-frontend/static/js/main.4af3d037.chunk.js.map",
+    "runtime-main.js": "/usdc-frontend/static/js/runtime-main.dbb2dcfd.js",
+    "runtime-main.js.map": "/usdc-frontend/static/js/runtime-main.dbb2dcfd.js.map",
+    "static/css/2.5c573378.chunk.css": "/usdc-frontend/static/css/2.5c573378.chunk.css",
+    "static/js/2.95457b3b.chunk.js": "/usdc-frontend/static/js/2.95457b3b.chunk.js",
+    "static/js/2.95457b3b.chunk.js.map": "/usdc-frontend/static/js/2.95457b3b.chunk.js.map",
+    "static/js/3.35e6d5b3.chunk.js": "/usdc-frontend/static/js/3.35e6d5b3.chunk.js",
+    "static/js/3.35e6d5b3.chunk.js.map": "/usdc-frontend/static/js/3.35e6d5b3.chunk.js.map",
+    "index.html": "/usdc-frontend/index.html",
+    "static/css/2.5c573378.chunk.css.map": "/usdc-frontend/static/css/2.5c573378.chunk.css.map",
+    "static/js/2.95457b3b.chunk.js.LICENSE.txt": "/usdc-frontend/static/js/2.95457b3b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbb2dcfd.js",
+    "static/css/2.5c573378.chunk.css",
+    "static/js/2.95457b3b.chunk.js",
+    "static/js/main.4af3d037.chunk.js"
+  ]
+}
